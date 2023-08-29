@@ -1,2 +1,2 @@
 # MOBPROG
--Midterm Quiz #1
+## MyApplication - Midterm Quiz 1
