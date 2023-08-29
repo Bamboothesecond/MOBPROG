@@ -1,2 +1,4 @@
 # MOBPROG
-## MyApplication - Midterm Quiz 1
+
+## Description
+•MyApplication - Midterm Quiz no. 1
